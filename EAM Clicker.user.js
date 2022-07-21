@@ -2,7 +2,7 @@
 // @name			EAM Clicker
 // @description		EAM Clicker
 // @author			aIeksander
-// @match			https://eam.eurme-amazon.com/web/base/COMMON*
+// @match			https://mingle-portal.eu1.inforcloudsuite.com/AMAZONRMEEU_PRD*
 // @downloadURL		https://github.com/aIeksancler/EAM-Clicker/raw/main/EAM%20Clicker.user.js
 // @updateURL		https://github.com/aIeksancler/EAM-Clicker/raw/main/EAM%20Clicker.user.js
 // @version			4.48
