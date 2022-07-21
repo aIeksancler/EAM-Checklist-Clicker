@@ -5,7 +5,7 @@
 // @match			https://mingle-portal.eu1.inforcloudsuite.com/AMAZONRMEEU_PRD*
 // @downloadURL		https://github.com/aIeksancler/EAM-Clicker/raw/main/EAM%20Clicker.user.js
 // @updateURL		https://github.com/aIeksancler/EAM-Clicker/raw/main/EAM%20Clicker.user.js
-// @version			4.48
+// @version			4.49
 // @grant			none
 // @run-at			document-end
 // ==/UserScript==
